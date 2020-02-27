@@ -8,6 +8,6 @@ node_modules/
 public/
 resources/
 
-# Ruby assets
-.bundle/
-vendor/bundle/
+# Link checker assets
+bin/
+tmp/
